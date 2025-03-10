@@ -1,10 +1,10 @@
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/public/logo192.png" width="128px" />
 </p> -->
-#How to exEcute the code
+#How to execute the code
 npx cucumber -js
 
-# HOW NAVIGATED THROUGH THE APPLICATION
+# HOW I NAVIGATED THROUGH THE APPLICATION
 - Pulled from the Todo repo
 - CD into the folder and Executed the command 'npm i'
 - Executed the command npm run dev to launch
